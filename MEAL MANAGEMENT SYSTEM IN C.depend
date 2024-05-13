@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538214189 source:e:\codeblocks\project\meal management system in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
