@@ -1,5 +1,8 @@
 ## Compile and run
-`gcc -o main main.c`
+compile:
+`gcc -o main main.c`</br>
+run:
+`./main.o`
 
 ## Images
 
